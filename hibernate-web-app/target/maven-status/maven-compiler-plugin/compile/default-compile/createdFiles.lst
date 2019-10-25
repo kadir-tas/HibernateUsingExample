@@ -1,0 +1,4 @@
+com/hibernate/usermanagement/model/User.class
+com/hibernate/usermanagement/dao/UserDao.class
+com/hibernate/usermanagement/utl/HibernateUtil.class
+com/hibernate/usermanagement/web/UserServlet.class
